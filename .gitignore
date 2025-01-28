@@ -1,0 +1,4 @@
+projects/*
+.venv
+.idea
+__pycache__
